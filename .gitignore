@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
